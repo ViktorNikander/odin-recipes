@@ -1,0 +1,27 @@
+* {
+    font-family: serif;
+    background-color: grey;
+}
+
+h1 {
+    color: green;
+    font-weight: bold;
+}
+
+h2 {
+    color: blue;
+    font-weight: lighter;
+}
+
+ul, ol {
+    color: red;
+    font-size: larger;
+}
+
+p {
+    color: darkgrey;
+}
+
+a {
+    background-color: violet;
+}
